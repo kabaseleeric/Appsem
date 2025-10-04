@@ -5,7 +5,7 @@
 <html lang="fr">
     <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="public/style.css">
+    <link rel="stylesheet" href="/appsem/public/style.css">
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Font Awesome -->
@@ -29,7 +29,7 @@
                             <h1 class="display-4 mb-4">Séminaire Saint François Xavier</h1>
                             <p class="lead mb-4">Former les futurs prêtres du diocèse de Mbuji Mayi dans la tradition et l'esprit de saint François Xavier</p>
                             <a href="#presentation" class="btn btn-light btn-lg me-3">Découvrir notre séminaire</a>
-                            <a href="contact.php" class="btn btn-outline-light btn-lg">Nous contacter</a>
+                            <a href="/appsem/contact.php" class="btn btn-outline-light btn-lg">Nous contacter</a>
                         </div>
                     </div>
                 </div>
@@ -64,21 +64,21 @@
                     <p>Fondé en 1965, le Séminaire Saint François Xavier de Mbuji Mayi a pour mission de former les futurs prêtres du diocèse selon les principes de l'Évangile et dans l'esprit missionnaire de saint François Xavier.</p>
                     <p>Notre séminaire accueille des jeunes hommes désireux de répondre à l'appel du Seigneur et de se préparer au sacerdoce ministériel. Nous offrons une formation intégrale qui comprend la formation humaine, spirituelle, intellectuelle et pastorale.</p>
                     <p>Au cœur de la région du Kasaï, notre établissement s'efforce d'être un lieu de croissance humaine et spirituelle, ouvert aux défis de notre temps tout en restant fidèle à la tradition de l'Église.</p>
-                    <a href="/vocation.php" class="btn btn-primary">En savoir plus</a>
+                    <a href="/appsem/vocation.php" class="btn btn-primary">En savoir plus</a>
                 </div>
                 <div class="col-lg-6">
                     <div class="row">
                         <div class="col-6 mb-4">
-                            <img src="/appsem/images/musique.png" alt="Musique au séminaire" class="img-fluid rounded shadow" style="object-fit:cover; width:100%; height:160px;">
+                            <img src="../public/images/musique.png" alt="Musique au séminaire" class="img-fluid rounded shadow" style="object-fit:cover; width:100%; height:160px;">
                         </div>
                         <div class="col-6 mb-4">
-                            <img src="/appsem/images/batiment.png" alt="Bâtiment du séminaire" class="img-fluid rounded shadow" style="object-fit:cover; width:100%; height:160px;">
+                            <img src="../public/images/batiment.png" alt="Bâtiment du séminaire" class="img-fluid rounded shadow" style="object-fit:cover; width:100%; height:160px;">
                         </div>
                         <div class="col-6">
-                            <img src="/appsem/images/foret.png" alt="Forêt autour du séminaire" class="img-fluid rounded shadow" style="object-fit:cover; width:100%; height:160px;">
+                            <img src="../public/images/foret.png" alt="Forêt autour du séminaire" class="img-fluid rounded shadow" style="object-fit:cover; width:100%; height:160px;">
                         </div>
                         <div class="col-6">
-                            <img src="/appsem/images/court.png" alt="Cour du séminaire" class="img-fluid rounded shadow" style="object-fit:cover; width:100%; height:160px;">
+                            <img src="../public/images/court.png" alt="Cour du séminaire" class="img-fluid rounded shadow" style="object-fit:cover; width:100%; height:160px;">
                         </div>
                     </div>
                 </div>
@@ -100,7 +100,7 @@
                         </div>
                         <h4>Formation Spirituelle</h4>
                         <p>Vie de prière, sacrements, accompagnement spirituel, retraites et formation à la spiritualité sacerdotale.</p>
-                        <a href="/formation-spirituelle.php" class="btn btn-outline-primary btn-sm mt-3">En savoir plus</a>
+                        <a href="/appsem/formation-spirituelle.php" class="btn btn-outline-primary btn-sm mt-3">En savoir plus</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
@@ -110,7 +110,7 @@
                         </div>
                         <h4>Formation Intellectuelle</h4>
                         <p>Étude de la philosophie, théologie, Écriture Sainte, droit canonique et sciences humaines.</p>
-                        <a href="/formation-intellectuelle.php" class="btn btn-outline-primary btn-sm mt-3">En savoir plus</a>
+                        <a href="/appsem/formation-intellectuelle.php" class="btn btn-outline-primary btn-sm mt-3">En savoir plus</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
@@ -120,7 +120,7 @@
                         </div>
                         <h4>Formation Pastorale</h4>
                         <p>Stages en paroisses, catéchèse, accompagnement des jeunes, visites pastorales et liturgie.</p>
-                        <a href="/formation-pastorale.php" class="btn btn-outline-primary btn-sm mt-3">En savoir plus</a>
+                        <a href="/appsem/formation-pastorale.php" class="btn btn-outline-primary btn-sm mt-3">En savoir plus</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
@@ -130,7 +130,7 @@
                         </div>
                         <h4>Formation Humaine</h4>
                         <p>Développement personnel, vie communautaire, responsabilités et éducation aux vertus humaines.</p>
-                        <a href="/formation-humaine.php" class="btn btn-outline-primary btn-sm mt-3">En savoir plus</a>
+                        <a href="/appsem/formation-humaine.php" class="btn btn-outline-primary btn-sm mt-3">En savoir plus</a>
                     </div>
                 </div>
             </div>
@@ -188,7 +188,7 @@
                                     <small class="text-muted"><i class="far fa-calendar me-1"></i>1 novembre 2023</small>
                                 </li>
                             </ul>
-                            <a href="/actualites.php" class="btn btn-primary w-100">Voir tous les événements</a>
+                            <a href="/appsem/actualites.php" class="btn btn-primary w-100">Voir tous les événements</a>
                         </div>
                     </div>
                     
@@ -206,7 +206,7 @@
                             <span>Samedi</span>
                             <span>08:00</span>
                         </div>
-                        <a href="/messes.php" class="btn btn-outline-primary btn-sm w-100 mt-3">Voir tous les horaires</a>
+                        <a href="/appsem/messes.php" class="btn btn-outline-primary btn-sm w-100 mt-3">Voir tous les horaires</a>
                     </div>
                 </div>
             </div>
@@ -278,7 +278,7 @@
             </div>
             
             <div class="text-center mt-4">
-                <a href="/archives.php" class="btn btn-primary">Voir toute la galerie</a>
+                <a href="/appsem/archives.php" class="btn btn-primary">Voir toute la galerie</a>
             </div>
         </div>
     </section>
@@ -297,7 +297,7 @@
                         </div>
                         <h4>Dons financiers</h4>
                         <p>Soutenez financièrement la formation des séminaristes et les projets du séminaire.</p>
-                        <a href="/don-argent.php" class="btn btn-outline-primary btn-sm mt-3">Faire un don</a>
+                        <a href="/appsem/don-argent.php" class="btn btn-outline-primary btn-sm mt-3">Faire un don</a>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -307,7 +307,7 @@
                         </div>
                         <h4>Don en nature</h4>
                         <p>Contribuez en offrant des biens matériels utiles à la vie du séminaire (aliments, fournitures, équipements...)</p>
-                        <a href="/don-nature.php" class="btn btn-outline-primary btn-sm mt-3">Faire un don en nature</a>
+                        <a href="/appsem/don-nature.php" class="btn btn-outline-primary btn-sm mt-3">Faire un don en nature</a>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -317,7 +317,7 @@
                         </div>
                         <h4>Parrainage</h4>
                         <p>Parrainez la formation d’un séminariste et accompagnez-le sur le chemin du sacerdoce.</p>
-                        <a href="/parrainage.php" class="btn btn-outline-primary btn-sm mt-3">Parrainer un séminariste</a>
+                        <a href="/appsem/parrainage.php" class="btn btn-outline-primary btn-sm mt-3">Parrainer un séminariste</a>
                     </div>
                 </div>
             </div>
