@@ -5,7 +5,7 @@
 <html lang="fr">
     <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="/appsem/public/style.css">
+    <link rel="stylesheet" href="/public/style.css">
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Font Awesome -->
