@@ -14,14 +14,14 @@
 			</div>
 			<div class="col-md-4 mb-4">
 				<h5>Liens rapides</h5>
-				<div class="footer-links">
-					<a href="#presentation">Présentation</a>
-					<a href="#formation">Formation</a>
-					<a href="#actualites">Actualités</a>
-					<a href="#galerie">Galerie</a>
-					<a href="#contact">Contact</a>
-					<a href="#soutien">Nous soutenir</a>
-				</div>
+				   <div class="footer-links">
+					   <a href="/appsem/index.php#presentation">Présentation</a>
+					   <a href="/appsem/index.php#formation">Formation</a>
+					   <a href="/appsem/index.php#actualites">Actualités</a>
+					   <a href="/appsem/index.php#galerie">Galerie</a>
+					   <a href="/appsem/contact.php">Contact</a>
+					   <a href="/appsem/index.php#soutien">Nous soutenir</a>
+				   </div>
 			</div>
 			<div class="col-md-4 mb-4">
 				<h5>Newsletter</h5>

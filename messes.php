@@ -44,7 +44,7 @@
 			<strong>Pendant les vacances</strong> (fin juin à mi-septembre, et deux semaines après Noël et Pâques), les messes dominicales de 7h20 et 18h30 ne sont pas assurées.
 		</div>
 		<div class="mt-4" style="font-size: 1.1rem; color: var(--dark-color);">
-			<p>Pour toute question sur les horaires ou les célébrations particulières, n'hésitez pas à <a href="contact.php" style="color: var(--primary-color); text-decoration: underline;">nous contacter</a>.</p>
+			<p>Pour toute question sur les horaires ou les célébrations particulières, n'hésitez pas à <a href="/appsem/contact.php" style="color: var(--primary-color); text-decoration: underline;">nous contacter</a>.</p>
 		</div>
 	</div>
 </section>
